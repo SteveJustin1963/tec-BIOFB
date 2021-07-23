@@ -11,7 +11,8 @@ TEC-1 Bio Feedback system
 - Temperature sensor
 - Pulse sensor
 - O2 sensor
-- Muscle Sensor
+- Muscle Sensor, Electromyographic biofeedback
 - ESP lol
 - Heart
+- Brain interface
 - 
